@@ -14,6 +14,7 @@
 		A4832147237870BA00F96FC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A4832145237870BA00F96FC0 /* LaunchScreen.storyboard */; };
 		A4832152237870BA00F96FC0 /* ProjectTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4832151237870BA00F96FC0 /* ProjectTestTests.swift */; };
 		A483215D2378723600F96FC0 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A483215C2378723600F96FC0 /* MasterViewController.swift */; };
+		A48321612378744900F96FC0 /* DevViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A48321602378744900F96FC0 /* DevViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		A4832151237870BA00F96FC0 /* ProjectTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectTestTests.swift; sourceTree = "<group>"; };
 		A4832153237870BA00F96FC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A483215C2378723600F96FC0 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
+		A48321602378744900F96FC0 /* DevViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DevViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		A483213B237870B900F96FC0 /* ProjectTest */ = {
 			isa = PBXGroup;
 			children = (
+				A48321602378744900F96FC0 /* DevViewController.swift */,
 				A483213C237870B900F96FC0 /* AppDelegate.swift */,
 				A483213E237870B900F96FC0 /* ViewController.swift */,
 				A4832140237870B900F96FC0 /* Main.storyboard */,
@@ -200,7 +203,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A483215F237872D300F96FC0 /* DevViewController.swift in Sources */,
+				A48321612378744900F96FC0 /* DevViewController.swift in Sources */,
 				A483213F237870B900F96FC0 /* ViewController.swift in Sources */,
 				A483213D237870B900F96FC0 /* AppDelegate.swift in Sources */,
 				A483215D2378723600F96FC0 /* MasterViewController.swift in Sources */,
