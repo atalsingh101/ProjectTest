@@ -200,6 +200,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A483215F237872D300F96FC0 /* DevViewController.swift in Sources */,
 				A483213F237870B900F96FC0 /* ViewController.swift in Sources */,
 				A483213D237870B900F96FC0 /* AppDelegate.swift in Sources */,
 				A483215D2378723600F96FC0 /* MasterViewController.swift in Sources */,
